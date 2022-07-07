@@ -16,11 +16,11 @@ int main()
     }
     else if (age == 18)
     {
-        printf("we will think about u");
+        print("we will think about u");
     }
     else
     {
-        printf(" error");
+        printf( error);
     }
 
     return 0;
