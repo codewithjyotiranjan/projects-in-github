@@ -79,7 +79,6 @@ while (True):
 
 
 
-#mixer.music.pause()
 
 
 
